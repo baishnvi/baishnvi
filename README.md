@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Baishnvi Goswami</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo6uYpZBr1EoUPRv8gM5uD0K9x3SMqbA47Q&s">
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo6uYpZBr1EoUPRv8gM5uD0K9x3SMqbA47Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baishnvi&label=Profile%20views&color=0e75b6&style=flat" alt="baishnvi" /> </p>
 
