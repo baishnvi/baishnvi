@@ -56,14 +56,21 @@
 </p>
 
 ---
+## 🏆 Achievements
+- ✔ Solved DSA problems on coding platforms  
+- ✔ Built multiple full stack projects  
+- ✔ Participated in coding contests  
+- ✔ Actively improving open-source contributions  
 
-## 🚀 Projects
-- 🔹 Add your project here  
-- 🔹 Portfolio website  
-- 🔹 Major GitHub repos  
+---
+
+## 💡 Goals
+- 🔥 Become a Full Stack Developer  
+- 🚀 Contribute to Open Source  
+- 💼 Land a high-impact software engineering role  
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile! ⭐  
 </p>
