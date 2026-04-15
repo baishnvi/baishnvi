@@ -15,16 +15,10 @@
 - ⚡ Fun fact: You can do anything and everything 😊  
 
 ---
-
-## 🌐 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/baishnvi-goswami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
-  </a>
-  <a href="https://www.leetcode.com/baishnvi_goswami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/>
-  </a>
+<a href="https://linkedin.com/in/baishnvi-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baishnvi-goswami" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/baishnvi_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baishnvi_goswami" height="30" width="40" /></a>
 </p>
 
 ---
