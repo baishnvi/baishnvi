@@ -2,10 +2,8 @@
 ### B.Tech IT Student | Web Developer 🚀  
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeUETANRXhI_yFArybu6j5zkK65iTMjCtRA&s" width="100%" height="250"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Baishnvi%20Goswami&fontSize=50&fontAlignY=40&desc=Web%20Developer&descAlignY=60"/>
 </p>
-
----
 
 <img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo6uYpZBr1EoUPRv8gM5uD0K9x3SMqbA47Q&s"/>
 
