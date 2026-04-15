@@ -2,7 +2,7 @@
 ### B.Tech IT Student | Web Developer 🚀  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Baishnvi%20Goswami&fontSize=50&fontAlignY=40&desc=Web%20Developer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Baishnvi%20Goswami&fontSize=50&fontAlignY=40&desc=Web%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=60" />
 </p>
 
 <img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo6uYpZBr1EoUPRv8gM5uD0K9x3SMqbA47Q&s"/>
